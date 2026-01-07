@@ -22,4 +22,4 @@ A creative, physics-based login interface built with Vanilla JS and CSS3. The pr
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/interactive-lamp-login.git](https://github.com/your-username/interactive-lamp-login.git)
+   git clone [https://github.com/Dhruv727876/interactive-lamp-login]
